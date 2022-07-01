@@ -1,7 +1,7 @@
 {
   "name": "mjml-image",
   "description": "mjml-image",
-  "version": "4.12.1",
+  "version": "4.12.0",
   "main": "lib/index.js",
   "files": [
     "lib"
